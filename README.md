@@ -17,6 +17,8 @@ Task 5: gold       equi-join radiation × actual PV generation at hourly granula
 
 Result table (Gold): `solar_pv_compare`
 
+Visualization of results in 06_explore.ipynb
+
 ## Environment-Specific Parameters
 
 All parameters are set via **job parameters**, which Databricks automatically passes
